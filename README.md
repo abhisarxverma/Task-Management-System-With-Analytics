@@ -1,2 +1,6 @@
 # Task-Management-System-With-Analytics
-This project I am making to get better and learn advanced python concepts.
+PURPOSE - To get better in and learn advanced python concepts.
+INSTRUCTOR - Self made chatbot in Amazon Partyrock which will give me tasks in sequence.
+PROGRAMMER - Abhisar verma
+LANGUAGE - Python
+

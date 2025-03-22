@@ -1,0 +1,11 @@
+{
+    "fc3a8f55-3288-43ac-b0b2-c340885a3049": {
+        "task_id": "fc3a8f55-3288-43ac-b0b2-c340885a3049",
+        "title": "Learn Django",
+        "description": "Django will make me backend developer",
+        "status": "pending",
+        "priority": "high",
+        "due_date": "2025-03-23",
+        "created_at": "2025-03-22"
+    }
+}
